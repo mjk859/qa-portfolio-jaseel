@@ -5,7 +5,6 @@ It includes manual test cases, bug reports, and sample automation scripts based 
 
 ## 🧪 Projects Covered
 - E-commerce Platform (MERN Stack)
-- Blogging Application (MERN Stack)
 
 ## 📋 Contents
 - Manual Test Cases
